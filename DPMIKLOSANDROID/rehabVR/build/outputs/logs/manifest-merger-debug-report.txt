@@ -1,0 +1,392 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:2:1-60:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\efd1d3479d33b00c17f7b5481ccca46b\AndroidManifest.xml:17:1-31:12
+MERGED from [:gvr-keyboard:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-keyboard.aar\6f1a6af51a85fffb513ec23b678b3eaa\AndroidManifest.xml:2:1-4:12
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\49a532fccff2b3c58e038c466a98e5e7\AndroidManifest.xml:2:1-34:12
+MERGED from [:gvr-permissionsupport-release:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-permissionsupport-release.aar\8ef0e2da3c0f6fed27a773606123e4f6\AndroidManifest.xml:2:1-29:12
+MERGED from [:gvr:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr.aar\6380d5ed7d88a1c8ba1aaa911c372cca\AndroidManifest.xml:2:1-4:12
+MERGED from [:unitygvr:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\unitygvr.aar\1ec391923af459c97d4dc01fd5741302\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a9f4310cf3232aac8de8f14df008e1e6\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\3ca1daf342360408af9db430413e18f2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c56c04812b37d7a330cb2e5e6c80e4ee\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\72a844d5ee03e32d54dc6c1159b574f6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\59fec2c644ffb195868a71b60bf4dd03\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7c674c0562614c563eb39b9cea31e380\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5a424ef3b80cbdad676f48378a17eb48\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7f57d0c0ade0ab75be7c54ab5abe7963\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\95b6dd30149f61eb2371c292e59cac25\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:2:1-60:12
+	package
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:2:70-100
+		INJECTED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml
+		INJECTED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:2:149-174
+		INJECTED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml
+		INJECTED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:2:175-198
+		INJECTED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml
+		INJECTED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:2:199-239
+	android:theme
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:2:101-148
+uses-sdk
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:3:3-72
+INJECTED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:3:3-72
+INJECTED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:3:3-72
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\efd1d3479d33b00c17f7b5481ccca46b\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\efd1d3479d33b00c17f7b5481ccca46b\AndroidManifest.xml:21:5-23:78
+MERGED from [:gvr-keyboard:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-keyboard.aar\6f1a6af51a85fffb513ec23b678b3eaa\AndroidManifest.xml:3:3-71
+MERGED from [:gvr-keyboard:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-keyboard.aar\6f1a6af51a85fffb513ec23b678b3eaa\AndroidManifest.xml:3:3-71
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\49a532fccff2b3c58e038c466a98e5e7\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\49a532fccff2b3c58e038c466a98e5e7\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-permissionsupport-release:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-permissionsupport-release.aar\8ef0e2da3c0f6fed27a773606123e4f6\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-permissionsupport-release:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-permissionsupport-release.aar\8ef0e2da3c0f6fed27a773606123e4f6\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr.aar\6380d5ed7d88a1c8ba1aaa911c372cca\AndroidManifest.xml:3:5-73
+MERGED from [:gvr:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr.aar\6380d5ed7d88a1c8ba1aaa911c372cca\AndroidManifest.xml:3:5-73
+MERGED from [:unitygvr:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\unitygvr.aar\1ec391923af459c97d4dc01fd5741302\AndroidManifest.xml:7:5-9:41
+MERGED from [:unitygvr:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\unitygvr.aar\1ec391923af459c97d4dc01fd5741302\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a9f4310cf3232aac8de8f14df008e1e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a9f4310cf3232aac8de8f14df008e1e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\3ca1daf342360408af9db430413e18f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\3ca1daf342360408af9db430413e18f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c56c04812b37d7a330cb2e5e6c80e4ee\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c56c04812b37d7a330cb2e5e6c80e4ee\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\72a844d5ee03e32d54dc6c1159b574f6\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\72a844d5ee03e32d54dc6c1159b574f6\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\59fec2c644ffb195868a71b60bf4dd03\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\59fec2c644ffb195868a71b60bf4dd03\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7c674c0562614c563eb39b9cea31e380\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7c674c0562614c563eb39b9cea31e380\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5a424ef3b80cbdad676f48378a17eb48\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5a424ef3b80cbdad676f48378a17eb48\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7f57d0c0ade0ab75be7c54ab5abe7963\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7f57d0c0ade0ab75be7c54ab5abe7963\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\95b6dd30149f61eb2371c292e59cac25\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\95b6dd30149f61eb2371c292e59cac25\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:3:3-72
+INJECTED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:3:3-72
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\efd1d3479d33b00c17f7b5481ccca46b\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:3:40-69
+		INJECTED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml
+		INJECTED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:3:13-39
+		INJECTED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml
+		INJECTED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:4:3-58
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:4:17-55
+supports-screens
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:5:3-163
+	android:largeScreens
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:5:78-105
+	android:smallScreens
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:5:21-48
+	android:normalScreens
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:5:49-77
+	android:xlargeScreens
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:5:106-134
+	android:anyDensity
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:5:135-160
+uses-permission#android.permission.INTERNET
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:6:3-65
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:6:20-62
+uses-permission#android.permission.CAMERA
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:7:3-63
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:7:20-60
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:8:3-77
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:8:20-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:9:3-79
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:9:20-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:10:3-78
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:10:20-75
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:11:3-66
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:11:20-63
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:12:3-72
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:12:20-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:13:3-77
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:13:20-74
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:14:3-79
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:14:20-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:15:3-73
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:15:20-71
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:16:3-73
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:16:20-71
+application
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:17:3-53:17
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\efd1d3479d33b00c17f7b5481ccca46b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\efd1d3479d33b00c17f7b5481ccca46b\AndroidManifest.xml:25:5-29:19
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\49a532fccff2b3c58e038c466a98e5e7\AndroidManifest.xml:15:5-32:19
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\49a532fccff2b3c58e038c466a98e5e7\AndroidManifest.xml:15:5-32:19
+MERGED from [:gvr-permissionsupport-release:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-permissionsupport-release.aar\8ef0e2da3c0f6fed27a773606123e4f6\AndroidManifest.xml:11:5-27:19
+MERGED from [:gvr-permissionsupport-release:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-permissionsupport-release.aar\8ef0e2da3c0f6fed27a773606123e4f6\AndroidManifest.xml:11:5-27:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a9f4310cf3232aac8de8f14df008e1e6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a9f4310cf3232aac8de8f14df008e1e6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\3ca1daf342360408af9db430413e18f2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\3ca1daf342360408af9db430413e18f2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c56c04812b37d7a330cb2e5e6c80e4ee\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c56c04812b37d7a330cb2e5e6c80e4ee\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\72a844d5ee03e32d54dc6c1159b574f6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\72a844d5ee03e32d54dc6c1159b574f6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\59fec2c644ffb195868a71b60bf4dd03\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\59fec2c644ffb195868a71b60bf4dd03\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7c674c0562614c563eb39b9cea31e380\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7c674c0562614c563eb39b9cea31e380\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5a424ef3b80cbdad676f48378a17eb48\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5a424ef3b80cbdad676f48378a17eb48\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7f57d0c0ade0ab75be7c54ab5abe7963\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7f57d0c0ade0ab75be7c54ab5abe7963\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\95b6dd30149f61eb2371c292e59cac25\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\95b6dd30149f61eb2371c292e59cac25\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\49a532fccff2b3c58e038c466a98e5e7\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:17:50-82
+	android:allowBackup
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\49a532fccff2b3c58e038c466a98e5e7\AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:17:16-49
+	android:banner
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:17:105-142
+	android:theme
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:17:143-181
+	android:isGame
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:17:83-104
+activity#com.DPmiklos.rehabVR.UnityPlayerNativeActivity
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:18:5-25:16
+	android:screenOrientation
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:18:48-85
+	android:label
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:18:15-47
+	android:launchMode
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:18:86-117
+	android:configChanges
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:18:118-299
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:18:300-361
+intent-filter#category:name:android.intent.category.LEANBACK_LAUNCHER+category:name:com.google.intent.category.CARDBOARD
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:19:7-22:23
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:20:9-78
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:20:19-75
+category#com.google.intent.category.CARDBOARD
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:21:9-73
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:21:19-70
+meta-data#unityplayer.UnityActivity
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:23:7-82
+	android:value
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:23:59-79
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:23:18-58
+meta-data#unityplayer.ForwardNativeEventsToDalvik
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:24:7-97
+	android:value
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:24:73-94
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:24:18-72
+service#com.strieg.myoplugin.MyoBackgroundService
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:26:5-96
+	android:enabled
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:26:14-36
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:26:37-93
+activity#com.unity3d.player.VideoPlayer
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:27:5-28:16
+	android:screenOrientation
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:27:94-130
+	android:label
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:27:61-93
+	android:configChanges
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:27:131-288
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:27:15-60
+activity#com.DPmiklos.rehabVR.ConnectActivity
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:30:5-37:16
+	android:theme
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:32:9-53
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:31:9-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:33:7-36:23
+action#android.intent.action.MAIN
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:34:9-61
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:34:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:35:9-69
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:35:19-66
+uses-library#com.ti.s3d
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:43:5-72
+	android:required
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:43:45-69
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:43:19-44
+uses-library#com.osterhoutgroup.api.ext
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:47:5-88
+	android:required
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:47:61-85
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:47:19-60
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:48:5-88
+	android:value
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:48:65-85
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:48:16-64
+meta-data#unity.build-id
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:49:5-101
+	android:value
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:49:46-98
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:49:16-45
+meta-data#unity.splash-mode
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:50:5-69
+	android:value
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:50:49-66
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:50:16-48
+meta-data#unity.splash-enable
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:51:5-75
+	android:value
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:51:51-72
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:51:16-50
+meta-data#android.max_aspect
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:52:5-72
+	android:value
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:52:50-69
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:52:16-49
+uses-feature#0x00020000
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:54:3-52
+	android:glEsVersion
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:54:17-49
+uses-feature#android.hardware.vulkan
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:55:3-83
+	android:required
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:55:56-80
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:55:17-55
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:56:3-97
+	android:required
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:56:70-94
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:56:17-69
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:57:3-88
+	android:required
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:57:61-85
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:57:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:58:3-99
+	android:required
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:58:72-96
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:58:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:59:3-108
+	android:required
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:59:81-105
+	android:name
+		ADDED from C:\Matus_docs\Skola\DP\test_1\08042018_posledna\rehabVR\src\main\AndroidManifest.xml:59:17-80
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\efd1d3479d33b00c17f7b5481ccca46b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a9f4310cf3232aac8de8f14df008e1e6\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\a9f4310cf3232aac8de8f14df008e1e6\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\3ca1daf342360408af9db430413e18f2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\3ca1daf342360408af9db430413e18f2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c56c04812b37d7a330cb2e5e6c80e4ee\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\c56c04812b37d7a330cb2e5e6c80e4ee\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\72a844d5ee03e32d54dc6c1159b574f6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\72a844d5ee03e32d54dc6c1159b574f6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\59fec2c644ffb195868a71b60bf4dd03\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\59fec2c644ffb195868a71b60bf4dd03\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7c674c0562614c563eb39b9cea31e380\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7c674c0562614c563eb39b9cea31e380\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5a424ef3b80cbdad676f48378a17eb48\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\5a424ef3b80cbdad676f48378a17eb48\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7f57d0c0ade0ab75be7c54ab5abe7963\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\7f57d0c0ade0ab75be7c54ab5abe7963\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\efd1d3479d33b00c17f7b5481ccca46b\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\efd1d3479d33b00c17f7b5481ccca46b\AndroidManifest.xml:27:13-51
+uses-feature#android.software.vr.mode
+ADDED from [:gvr-keyboardsupport-release:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\49a532fccff2b3c58e038c466a98e5e7\AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\49a532fccff2b3c58e038c466a98e5e7\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\49a532fccff2b3c58e038c466a98e5e7\AndroidManifest.xml:12:9-48
+activity#com.google.gvr.keyboardsupport.TransitionVRActivity
+ADDED from [:gvr-keyboardsupport-release:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\49a532fccff2b3c58e038c466a98e5e7\AndroidManifest.xml:21:9-31:20
+	android:label
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\49a532fccff2b3c58e038c466a98e5e7\AndroidManifest.xml:25:13-45
+	android:enableVrMode
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\49a532fccff2b3c58e038c466a98e5e7\AndroidManifest.xml:24:13-106
+	android:resizeableActivity
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\49a532fccff2b3c58e038c466a98e5e7\AndroidManifest.xml:26:13-47
+	android:configChanges
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\49a532fccff2b3c58e038c466a98e5e7\AndroidManifest.xml:23:13-59
+	android:name
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\49a532fccff2b3c58e038c466a98e5e7\AndroidManifest.xml:22:13-79
+intent-filter#category:name:android.intent.category.LAUNCHER+category:name:com.google.intent.category.DAYDREAM
+ADDED from [:gvr-keyboardsupport-release:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\49a532fccff2b3c58e038c466a98e5e7\AndroidManifest.xml:27:13-30:29
+category#com.google.intent.category.DAYDREAM
+ADDED from [:gvr-keyboardsupport-release:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\49a532fccff2b3c58e038c466a98e5e7\AndroidManifest.xml:29:17-80
+	android:name
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-keyboardsupport-release.aar\49a532fccff2b3c58e038c466a98e5e7\AndroidManifest.xml:29:27-77
+activity#com.google.gvr.permissionsupport.TransitionVRActivity
+ADDED from [:gvr-permissionsupport-release:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-permissionsupport-release.aar\8ef0e2da3c0f6fed27a773606123e4f6\AndroidManifest.xml:17:9-26:20
+	android:label
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-permissionsupport-release.aar\8ef0e2da3c0f6fed27a773606123e4f6\AndroidManifest.xml:21:13-45
+	android:enableVrMode
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-permissionsupport-release.aar\8ef0e2da3c0f6fed27a773606123e4f6\AndroidManifest.xml:20:13-106
+	android:configChanges
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-permissionsupport-release.aar\8ef0e2da3c0f6fed27a773606123e4f6\AndroidManifest.xml:19:13-59
+	android:name
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\gvr-permissionsupport-release.aar\8ef0e2da3c0f6fed27a773606123e4f6\AndroidManifest.xml:18:13-81
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\95b6dd30149f61eb2371c292e59cac25\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\95b6dd30149f61eb2371c292e59cac25\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\pc\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\95b6dd30149f61eb2371c292e59cac25\AndroidManifest.xml:26:13-58

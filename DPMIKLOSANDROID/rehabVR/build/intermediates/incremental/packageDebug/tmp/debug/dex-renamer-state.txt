@@ -1,0 +1,4 @@
+#Tue Apr 10 08:59:00 CEST 2018
+base.0=C\:\\Matus_docs\\Skola\\DP\\test_1\\08042018\\rehabVR\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

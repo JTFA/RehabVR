@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.DPmiklos.rehabVR" android:theme="@android:style/Theme.NoTitleBar" android:versionName="1.0" android:versionCode="1" android:installLocation="preferExternal">
+  <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="26" />
+  <uses-feature android:name="android.hardware.camera" />
+  <supports-screens android:smallScreens="true" android:normalScreens="true" android:largeScreens="true" android:xlargeScreens="true" android:anyDensity="true" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.CAMERA" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.BLUETOOTH" />
+  <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+  <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+  <application android:icon="@drawable/app_icon" android:label="@string/app_name" android:isGame="true" android:banner="@drawable/app_banner" android:theme="@style/VrActivityTheme">
+    <activity android:label="@string/app_name" android:screenOrientation="landscape" android:launchMode="singleTask" android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density" android:name="com.DPmiklos.rehabVR.UnityPlayerNativeActivity">
+      <intent-filter>
+        <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+        <category android:name="com.google.intent.category.CARDBOARD" />
+      </intent-filter>
+      <meta-data android:name="unityplayer.UnityActivity" android:value="true" />
+      <meta-data android:name="unityplayer.ForwardNativeEventsToDalvik" android:value="false" />
+    </activity>
+    <service android:enabled="true" android:name="com.strieg.myoplugin.MyoBackgroundService" />
+    <activity android:name="com.unity3d.player.VideoPlayer" android:label="@string/app_name" android:screenOrientation="portrait" android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen">
+    </activity>
+    <!-- Aktivita pripojovacej uvodnej obrazovky -->
+    <activity
+        android:name=".ConnectActivity"
+        android:theme="@style/Theme.AppCompat.Light">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <!--
+            To support devices using the TI S3D library for stereo mode we must 
+            add the following library.
+            Devices that require this are: ODG X6 
+        -->
+    <uses-library android:name="com.ti.s3d" android:required="false" />
+    <!--
+            To support the ODG R7 in stereo mode we must add the following library.
+        -->
+    <uses-library android:name="com.osterhoutgroup.api.ext" android:required="false" />
+    <meta-data android:name="unityplayer.SkipPermissionsDialog" android:value="true" />
+    <meta-data android:name="unity.build-id" android:value="355bcff9-2a79-4afc-be8b-b73c5c2f17e5" />
+    <meta-data android:name="unity.splash-mode" android:value="0" />
+    <meta-data android:name="unity.splash-enable" android:value="False" />
+    <meta-data android:name="android.max_aspect" android:value="2.1" />
+  </application>
+  <uses-feature android:glEsVersion="0x00020000" />
+  <uses-feature android:name="android.hardware.vulkan" android:required="false" />
+  <uses-feature android:name="android.hardware.sensor.accelerometer" android:required="false" />
+  <uses-feature android:name="android.hardware.touchscreen" android:required="false" />
+  <uses-feature android:name="android.hardware.touchscreen.multitouch" android:required="false" />
+  <uses-feature android:name="android.hardware.touchscreen.multitouch.distinct" android:required="false" />
+</manifest>
+<!-- android:installLocation="preferExternal" -->
